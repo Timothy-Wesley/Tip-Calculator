@@ -26,6 +26,15 @@ body {
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
   }
+
+  h3 {
+    color: rgb(0, 0, 0);
+    text-transform: lowercase;
+    font-size: 12px;
+    font-weight: normal;
+    text-align: center;
+    top: 50%;
+  }
   
   p {
     padding-left: 20px;
